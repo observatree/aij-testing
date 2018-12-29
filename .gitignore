@@ -1,7 +1,7 @@
 # Emacs turds
 **/*.*~
 # Files commonly produced during interactive testing
-resources/bias/masterbias.fit*
-resources/dark/masterdark.fit*
-resources/dark/masterflat.fit*
-resources/light/Calibrated/
+resources/data_processor/bias/masterbias.fit*
+resources/data_processor/dark/masterdark.fit*
+resources/data_processor/dark/masterflat.fit*
+resources/data_processor/light/Calibrated/
