@@ -1,5 +1,7 @@
 # Emacs turds
 **/*.*~
+# Finder turds
+**/.DS_Store
 # Files commonly produced during interactive testing
 resources/data_processor/bias/masterbias.fit*
 resources/data_processor/dark/masterdark.fit*
