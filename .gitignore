@@ -5,5 +5,5 @@
 # Files commonly produced during interactive testing
 resources/data_processor/bias/masterbias.fit*
 resources/data_processor/dark/masterdark.fit*
-resources/data_processor/dark/masterflat.fit*
+resources/data_processor/flat/masterflat.fit*
 resources/data_processor/light/Calibrated/
