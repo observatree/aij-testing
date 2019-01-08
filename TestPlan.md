@@ -11,11 +11,11 @@ For this test plan to be more than a recipe to be followed,
 the tester should be at least somewhat familiar with the theory and
 practice of exoplanet transit observation such as is thoroughly discussed
 in Bruce Gary's book, "Exoplanet Observing for Amateurs." The "Third
-Edition" aka "Second Edition (plus)." The book is available as a
+Edition" aka "Second Edition (plus)" of the book is available as a
 [zipped pdf](http://brucegary.net/book_EOA/ExoplanetObservingAmateurs2ndEdition.zip)
 directly from the author. Alternatively, Dennis Conti's AAVSO
 CHOICE course is an efficient way to become familiar with the
-theory and practice of differential photometry (see
+practice of differential photometry (see
 [acknowledgements in README.md](./README.md#acknowledgements)).
 
 The test plan assumes that you have bias, dark, flat and light images
